@@ -273,8 +273,6 @@ http {
 
     server {
         listen 80;
-        server_name $domain_name;
-        
         location /.well-known/ {
                root /var/www/html;
             }
