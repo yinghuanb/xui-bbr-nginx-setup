@@ -28,3 +28,9 @@ http站点优先，个人网盘符合单节点大流量特征
 面板设置
 
 ![Example Image](/2.png)
+
+
+客户端配置注意事项
+
+
+![Example Image](/3.png)
